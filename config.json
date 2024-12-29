@@ -1,0 +1,12 @@
+{
+  "prefix": "?",
+  "token": "MTMxNTMyNTc0ODUyOTIwNTI4OA.GQozlC.Nk9uzkt_1z3SrrPT3Ik5aKwQlt5zhGA7CSViMU",
+  "owners": ["1224767483123077252"],
+  "footer": "NSFW Bot • github.com/n1z19",
+
+  "msg": {
+    "nsfwWarn": "You must use this command in an nsfw channel!",
+    "loading": "Please wait...",
+    "imageNotLoading": "Image not loading ? Click Here"
+  }
+}
