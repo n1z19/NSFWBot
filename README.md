@@ -23,7 +23,7 @@ npm i
   "prefix": "your prefix",
   "token": "your token",
   "owners": ["OWNER ID"],
-  "footer": "NSFW Bot • is.gd/nsfwbot",
+  "footer": "NSFW Bot • https://discord.gg/nizira1n",
 
   "msg": {
     "nsfwWarn": "You must use this command in an nsfw channel!",
